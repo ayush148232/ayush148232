@@ -1,11 +1,11 @@
 👋 Hello, I'm Ayush
 
-I am a first-year B.Tech Computer Science Engineering student with a strong interest in programming, problem-solving, and building real-world applications. I am currently in the early stage of my development journey, focusing on building a solid foundation in core computer science concepts.
+I am a Second-year B.Tech Computer Science Engineering student with a strong interest in programming, problem-solving, and building real-world applications. I am currently in the early stage of my development journey, focusing on building a solid foundation in core computer science concepts.
 
 💻 What I’m Learning
 I am actively learning and practicing:
 
-* C and C++ programming
+* C,Python,Java programming
 * Basic Data Structures (arrays, loops, functions)
 * Problem-solving and logical thinking
 * Fundamentals of computer science
